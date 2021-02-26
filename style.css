@@ -8,16 +8,18 @@ body {
   margin-top: 0px;
 }
 
-h1,
+
 h3 {
   margin: 0;
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 70px;
+  margin-top:75px;
 }
 
 h2 {
+  margin-top:20px;
   font-size: 48px;
 }
 
